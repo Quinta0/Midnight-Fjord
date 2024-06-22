@@ -46,7 +46,7 @@ svg * {
 
 .theme-dark {
 	--text: #e7f3f9;
-	--background: #0d2235;
+	--background-primary: #0d2235;
 	--primary: #8abce0;
 	--secondary: #7d4a21;
 	--accent: #95d45e;
